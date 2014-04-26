@@ -1,4 +1,9 @@
-// Settings in here override those in "Default/Preferences.sublime-settings", and
-// are overridden in turn by file type specific settings.
 {
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Monaco",
+	"font_size": 13,
+	"ignored_packages": [],
+	"vintage_start_in_command_mode": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": false
 }
