@@ -13,3 +13,27 @@
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true
 }
+
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/Seti (Flake8Lint).tmTheme",
+	"draw_minimap_border": true,
+	"font_face": "PT Mono",
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		100
+	],
+	"tab_size": 4,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true
